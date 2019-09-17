@@ -1,0 +1,20 @@
+body{
+  color:red;
+}
+
+.navbar {
+  padding 1rem;
+  background-color: green;
+}
+
+.btn-primary:hover {
+  background-color: blue;
+  color: white;
+}
+
+.hero-background-img {
+  background-image: url("cat.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
